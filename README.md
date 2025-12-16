@@ -2,6 +2,9 @@
 
 A Machine Learning web application that predicts laptop prices based on key hardware specifications such as company, CPU, GPU, RAM, operating system, weight, and screen size.
 
+# 🖥️ UI App Link
+https://laptoppricepredictionmlmodel-kr6uw9xb4qoldeqpfk6oom.streamlit.app/
+
 ---
 
 ## 🚀 Features
@@ -38,6 +41,7 @@ The Streamlit app allows users to:
 - Instantly see the estimated laptop price
 
 ---
+
 
 
 
