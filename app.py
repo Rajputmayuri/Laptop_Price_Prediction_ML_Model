@@ -137,3 +137,4 @@ st.markdown(
     f"<div class='footer'>🔗 <a href='{GITHUB_URL}' target='_blank'>View Project on GitHub</a></div>",
     unsafe_allow_html=True,
 )
+
